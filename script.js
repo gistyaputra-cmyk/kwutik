@@ -29,7 +29,7 @@ let products=[
 ["Video Editing Pack",95000],
 ["Music Pack",70000],
 ["Icon Set",30000],
-["Landing Page Kit",85000],
+["Template Capcut premium",85000],
 ["AI Tools Bundle",200000]
 ];
 
